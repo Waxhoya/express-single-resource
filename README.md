@@ -9,5 +9,5 @@ This module uses the _bad-store_ module for CRUD. As such it you must include a 
 
 Currently the CRUD operations function as intended. Mocha/Chai-http testing is in-progress.
 
-### Credit:
+### Credit
 I have largely rewritten and modified the work of Marty N for this project. 

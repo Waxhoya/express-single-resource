@@ -4,7 +4,7 @@ const port = process.env.PORT || 3000;
 
 const store = require('bad-store');
 const path = require('path');
-const storeDir = path.join(__dirname, 'public');
+const storeDir = path.join(__dirname, 'team');
 const server = http.createServer(app);
 
 store.config(storeDir);
